@@ -13,7 +13,7 @@ To get this project running on your own machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abhishekmsm51w-star/moviesync.git
+   git clone https://github.com/Naushadahmad011/moviesync.git
    ```
 2. **Navigate into the project directory:**
    ```bash
